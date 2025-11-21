@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.wav
+*.mp3
+*.log
+speech_to_text/vosk-model-small-en-us-0.15/
