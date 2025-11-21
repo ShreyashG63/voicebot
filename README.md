@@ -196,4 +196,3 @@ Intent + database integration
 
 👨‍💻 Author
 Shreyash
-AI Intern
