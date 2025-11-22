@@ -103,6 +103,8 @@ voicebot/
 ├── requirements.txt
 └── README.md
 
+<img width="518" height="586" alt="image" src="https://github.com/user-attachments/assets/db34ace2-5fe8-4719-b000-0d6732581aec" />
+
 
 🗄️ MySQL Setup
 
